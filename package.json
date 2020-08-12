@@ -1,0 +1,21 @@
+{
+    "name": "usecookieshook",
+    "version": "1.0.0",
+    "description": "A simple hook for the usage and updating of cookies.",
+    "main": "index.js",
+    "scripts": {
+        "run": "node index.js"
+    },
+    "keywords": [
+        "react-hook",
+        "cookies",
+        "react-cookies",
+        "cookies-hook"
+    ],
+    "author": "Kristoball",
+    "license": "MIT",
+    "dependencies": {
+        "js-cookies": "^1.0.4",
+        "react": "^16.13.1"
+    }
+}
