@@ -1,5 +1,5 @@
 {
-    "name": "usecookieshook",
+    "name": "@kristoball/usecookieshook",
     "version": "1.0.0",
     "description": "A simple hook for the usage and updating of cookies.",
     "main": "index.js",
@@ -12,6 +12,9 @@
         "react-cookies",
         "cookies-hook"
     ],
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/"
+    },
     "author": "Kristoball",
     "license": "MIT",
     "dependencies": {
